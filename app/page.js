@@ -51,7 +51,7 @@ export default function Home() {
                   <a href="#contact">Contact Me</a>
                 </Button>
                 <Button variant="outline" asChild>
-                  <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+                  <a href="https://drive.google.com/file/d/1K1IvPSnqX-UOYxmOUCRpusSdLy0d0mtD/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                     View Resume
                   </a>
                 </Button>

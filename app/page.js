@@ -151,18 +151,18 @@ export default function Home() {
               </p>
               <div className="flex space-x-4">
                 <Button variant="outline" size="icon" asChild>
-                  <a href="mailto:johndoe@example.com" aria-label="Email">
+                  <a href="mailto:rohitthakurrt365@gmail.com" aria-label="Email">
                     <Mail className="h-4 w-4" />
                   </a>
                 </Button>
                 <Button variant="outline" size="icon" asChild>
-                  <a href="https://github.com/johndoe" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                  <a href="https://github.com/rohit1b" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                     <Github className="h-4 w-4" />
                   </a>
                 </Button>
                 <Button variant="outline" size="icon" asChild>
                   <a
-                    href="https://linkedin.com/in/johndoe"
+                    href="https://www.linkedin.com/in/rohit-thakur-423050260/"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="LinkedIn"

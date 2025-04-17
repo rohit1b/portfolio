@@ -129,7 +129,7 @@ export default function Home() {
             <Card>
               <CardHeader>
                 <CardTitle>Bachelor of Science in Computer Science and Engineering</CardTitle>
-                <CardDescription>University of Technology, 2020 - 2024</CardDescription>
+                <CardDescription>University of Technology, 2022 - 2026</CardDescription>
               </CardHeader>
               <CardContent>
                 <p>GPA: 3.8/4.0</p>
